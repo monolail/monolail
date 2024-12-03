@@ -18,6 +18,12 @@ Hello, World!
 
 <br/>
 
+>🛠&nbsp;&nbsp; My Tech Stack &nbsp;&nbsp;🛠
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+<br/>
+
 >📫&nbsp;&nbsp; Contact &nbsp;&nbsp;📫
 
 ![Gmail](https://img.shields.io/badge/qwe4229093@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
