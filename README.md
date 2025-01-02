@@ -26,7 +26,7 @@ Hello, World!
 
 >📫&nbsp;&nbsp; Contact &nbsp;&nbsp;📫
 
-![Gmail](https://img.shields.io/badge/qwe4229093@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+![Gmail](https://img.shields.io/badge/qwe4229093@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white) ![Gmail](https://img.shields.io/badge/minn0949@khu.ac.kr-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
 
 
