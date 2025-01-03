@@ -18,11 +18,8 @@ Hello, World!
 
 <br/>
 
->🛠&nbsp;&nbsp; My Tech Stack &nbsp;&nbsp;🛠
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-<br/>
 
 >📫&nbsp;&nbsp; Contact &nbsp;&nbsp;📫
 
