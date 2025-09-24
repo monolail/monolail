@@ -1,18 +1,35 @@
-Hello, World!
-=============
-### I'm ho joon Lee, junior developer from Korea
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGRzb2htbWw1ZWo4Zno5ZXF2dTl3c3o2d2xra2ltdHZhaHRzMmVjZSZjdD1n/ZVik7pBtu9dNS/giphy.gif" width="200"/>
+</p>
 
-### I am a student at Kyung Hee University.
+
+📝 Just Do It! 📝
+=============
+
+<small>"일단 뭐든 시도 해보는 마인드" Developer</small>
 
 ----------------
+>🎓 Education
 
->📚&nbsp;&nbsp; Studying &nbsp;&nbsp;📚
+● 경희대학교 소프트웨어융합학과 (2021~)
+<br/>
+● 쿠러그(KHLUG) (2025~)
+<br/>
+● B.D.A (2025~)
+
+<br/>
+
+>🏆 Experience
+
+<br/>
+
+>📚&nbsp;&nbsp; Studying &nbsp;&nbsp;
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
 <br/>
 
->💾&nbsp;&nbsp; portfolio &nbsp;&nbsp;💾
+>💾&nbsp;&nbsp; portfolio &nbsp;&nbsp;
 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
@@ -21,7 +38,7 @@ Hello, World!
 
 
 
->📫&nbsp;&nbsp; Contact &nbsp;&nbsp;📫
+>📫&nbsp;&nbsp; Contact &nbsp;&nbsp;
 
 ![Gmail](https://img.shields.io/badge/qwe4229093@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white) ![Gmail](https://img.shields.io/badge/minn0949@khu.ac.kr-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
