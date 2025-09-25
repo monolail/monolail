@@ -6,10 +6,13 @@
 📝 Just Do It! 📝
 =============
 
-<small>"일단 뭐든 시도 해보는 마인드" Developer</small>
 
-----------------
->🎓 Education
+><small>"일단 뭐든 시도 해보는 마인드" Developer</small>
+
+--------------
+
+🎓 Education
+=============
 
 ● 경희대학교 소프트웨어융합학과 (2021~)
 <br/>
@@ -19,13 +22,35 @@
 
 <br/>
 
->🏆 Experience
+🏆 Experience
+=============
+<br/>
+
+🏅 Main Awards & Project
+=============
+
+<br/>
+
+🛠 Tech Stack 🛠
+=============
+
+>💪&nbsp;&nbsp; Strong &nbsp;&nbsp;
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+
+<br/>
+
+>🔨 &nbsp;&nbsp;Development Tools&nbsp;&nbsp;
 
 <br/>
 
 >📚&nbsp;&nbsp; Studying &nbsp;&nbsp;
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+ ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%373CBF.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+
+<br/>
+
+>👀&nbsp;&nbsp; Areas of Interest&nbsp;&nbsp;
 
 <br/>
 
