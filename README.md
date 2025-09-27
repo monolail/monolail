@@ -40,17 +40,22 @@
 
 <br/>
 
->🔨 &nbsp;&nbsp;Development Tools&nbsp;&nbsp;
-
-<br/>
-
 >📚&nbsp;&nbsp; Studying &nbsp;&nbsp;
 
  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%373CBF.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 
 <br/>
 
+>🔨 &nbsp;&nbsp;Development Tools&nbsp;&nbsp;
+
+<br/>
+
+
 >👀&nbsp;&nbsp; Areas of Interest&nbsp;&nbsp;
+
+● 🖥️ Data Anlysis
+
+● 💻 AI/ML Engineering
 
 <br/>
 
