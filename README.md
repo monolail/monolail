@@ -2,7 +2,6 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGRzb2htbWw1ZWo4Zno5ZXF2dTl3c3o2d2xra2ltdHZhaHRzMmVjZSZjdD1n/ZVik7pBtu9dNS/giphy.gif" width="200"/>
 </p>
 
-
 📝 Just Do It! 📝
 =============
 
@@ -46,13 +45,15 @@
 
 <br/>
 
->📚&nbsp;&nbsp; Studying &nbsp;&nbsp;
+>📚&nbsp;&nbsp; Currently Studying &nbsp;&nbsp;
 
- ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%373CBF.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+ ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
 
 <br/>
 
 >🔨 &nbsp;&nbsp;Development Tools&nbsp;&nbsp;
+
+<img src="https://img.shields.io/badge/colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"> <img src="https://img.shields.io/badge/VS CODE-4479A1?style=for-the-badge&logo=b&logoColor=white">
 
 <br/>
 
