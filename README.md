@@ -6,10 +6,16 @@
 📝 Just Do It! 📝
 =============
 
-
 ><small>"일단 뭐든 시도 해보는 마인드" Developer</small>
 
 --------------
+
+🐾 GitAnimals
+====
+
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/{monolail}?pet-id=14" width="1000" height="150"/>
+</a>
 
 🎓 Education
 =============
