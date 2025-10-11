@@ -31,6 +31,12 @@
 =============
 <br/>
 
+● Open Up - 'SW 실습교육_인공지능_데이터 분석과 이미지 처리를 위한 딥러닝 활용' (2022)
+<br/>
+● Microsoft AI Literacy (2025)
+
+
+
 🏅 Main Awards & Project
 =============
 
