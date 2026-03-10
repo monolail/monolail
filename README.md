@@ -44,12 +44,31 @@
 ● Microsoft AI Literacy ( 2025 )
 <br/>
 ● Finda 1기 우수 수료증  ( 2025.12.28 ~ 2026.02.28 )
-
+<br/>
+● B.D.A 11기 데이터 분석 교육 수료
 
 🏅 Main Awards & Project
 =============
 
 <br/>
+
+🚀 Featured Projects
+=============
+### 📈 [FINDA_1_MARKET-DATA](https://github.com/monolail/FINDA_1_MARKET-DATA)
+
+> **시장 데이터를 활용한 기업 상장 폐지 예측 모델링**
+
+- **Period**: 2025.12 ~ 2026.02
+- **Tech**: `Python`, `Pandas`, `Scikit-learn`, `ML Modeling`
+- **Key**: 기업의 재무 및 시장 데이터를 정제하여 높은 정확도로 상장 폐지 리스크를 예측하는 모델을 구축.
+
+### 🌱 [PLANT_DISEASE_VER2](https://github.com/monolail/PLANT_DISEASE_VER2)
+
+> **딥러닝 기반 식물 병해 진단 모델 및 Flutter 앱 서비스**
+
+- **Period**: 2025.09 ~ 2025.12
+- **Tech**: `Python`, `Deep Learning`, `Flutter`, `Firebase`
+- **Key**: CNN 기반의 진단 모델을 설계하고, 이를 사용자가 실시간으로 사용할 수 있도록 모바일 앱으로 구현.
 
 🛠 Tech Stack 🛠
 =============
