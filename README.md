@@ -39,10 +39,11 @@
 =============
 <br/>
 
-● Open Up - 'SW 실습교육_인공지능_데이터 분석과 이미지 처리를 위한 딥러닝 활용' (2022)
+● Open Up - 'SW 실습교육_인공지능_데이터 분석과 이미지 처리를 위한 딥러닝 활용' ( 2022 )
 <br/>
-● Microsoft AI Literacy (2025)
-
+● Microsoft AI Literacy ( 2025 )
+<br/>
+● Finda 1기 우수 수료증  ( 2025.12.28 ~ 2026.02.28 )
 
 
 🏅 Main Awards & Project
@@ -56,12 +57,13 @@
 >💪&nbsp;&nbsp; Strong &nbsp;&nbsp;
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 <br/>
 
 >📚&nbsp;&nbsp; Currently Studying &nbsp;&nbsp;
 
- ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white"> 
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white"> 
 
 <br/>
 
