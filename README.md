@@ -46,6 +46,8 @@
 ● Finda 1기 우수 수료증  ( 2025.12.28 ~ 2026.02.28 )
 <br/>
 ● B.D.A 11기 데이터 분석 교육 수료
+<br/>
+● GA4 Data Analytics
 
 🏅 Main Awards & Project
 =============
