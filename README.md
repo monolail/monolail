@@ -33,7 +33,7 @@
 <br/>
 ● Finda 1기 ( 2025.12.28 ~ 2026.02.28 )
 <br/>
-● LG Aimers ( 2025.06.22 ~  )
+● LG Aimers ( 2026.06.22 ~  2026.09.02 )
 
 <br/>
 
@@ -50,6 +50,8 @@
 ● B.D.A 11기 데이터 분석 교육 수료
 <br/>
 ● GA4 Data Analytics
+<br/>
+● LG Aimers 9기 수
 
 🏅 Main Awards & Project
 =============
