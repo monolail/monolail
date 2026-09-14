@@ -120,9 +120,9 @@
 
 >📫&nbsp;&nbsp; Contact &nbsp;&nbsp;
 
-![Gmail](https://img.shields.io/badge/qwe4229093@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white) ![Gmail](https://img.shields.io/badge/minn0949@khu.ac.kr-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-
-
+<a href="mailto:qwe4229093@gmail.com"><img src="https://img.shields.io/badge/qwe4229093@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="mailto:minn0949@khu.ac.kr"><img src="https://img.shields.io/badge/minn0949@khu.ac.kr-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/본인아이디여기에입력"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 <!--
 **monolail/monolail** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
